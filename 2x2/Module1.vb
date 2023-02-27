@@ -58,7 +58,7 @@
             cube(Char.GetNumericValue(code(6)), Char.GetNumericValue(code(7)), Char.GetNumericValue(code(8))) = cube(Char.GetNumericValue(code(3)), Char.GetNumericValue(code(4)), Char.GetNumericValue(code(5)))
             cube(Char.GetNumericValue(code(3)), Char.GetNumericValue(code(4)), Char.GetNumericValue(code(5))) = cube(Char.GetNumericValue(code(0)), Char.GetNumericValue(code(1)), Char.GetNumericValue(code(2)))
             cube(Char.GetNumericValue(code(0)), Char.GetNumericValue(code(1)), Char.GetNumericValue(code(2))) = x
-        Else
+        ElseIf dir = "A" Then
             x = cube(Char.GetNumericValue(code(0)), Char.GetNumericValue(code(1)), Char.GetNumericValue(code(2)))
             cube(Char.GetNumericValue(code(0)), Char.GetNumericValue(code(1)), Char.GetNumericValue(code(2))) = cube(Char.GetNumericValue(code(3)), Char.GetNumericValue(code(4)), Char.GetNumericValue(code(5)))
             cube(Char.GetNumericValue(code(3)), Char.GetNumericValue(code(4)), Char.GetNumericValue(code(5))) = cube(Char.GetNumericValue(code(6)), Char.GetNumericValue(code(7)), Char.GetNumericValue(code(8)))
