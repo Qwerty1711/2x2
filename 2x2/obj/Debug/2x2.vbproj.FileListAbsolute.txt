@@ -1,0 +1,11 @@
+C:\Users\harsh\Desktop\coding\School\2x2\2x2\bin\Debug\2x2.exe.config
+C:\Users\harsh\Desktop\coding\School\2x2\2x2\bin\Debug\2x2.exe
+C:\Users\harsh\Desktop\coding\School\2x2\2x2\bin\Debug\2x2.pdb
+C:\Users\harsh\Desktop\coding\School\2x2\2x2\bin\Debug\2x2.xml
+C:\Users\harsh\Desktop\coding\School\2x2\2x2\obj\Debug\2x2.vbproj.AssemblyReference.cache
+C:\Users\harsh\Desktop\coding\School\2x2\2x2\obj\Debug\_2x2.Resources.resources
+C:\Users\harsh\Desktop\coding\School\2x2\2x2\obj\Debug\2x2.vbproj.GenerateResource.cache
+C:\Users\harsh\Desktop\coding\School\2x2\2x2\obj\Debug\2x2.vbproj.CoreCompileInputs.cache
+C:\Users\harsh\Desktop\coding\School\2x2\2x2\obj\Debug\2x2.exe
+C:\Users\harsh\Desktop\coding\School\2x2\2x2\obj\Debug\2x2.xml
+C:\Users\harsh\Desktop\coding\School\2x2\2x2\obj\Debug\2x2.pdb
